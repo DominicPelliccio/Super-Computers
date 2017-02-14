@@ -19,14 +19,15 @@ body {
 
 
     .wrapper {
-        display: grid;
+		display: grid;
     grid-gap: 10px;
-        grid-template-columns: 120px  240px;
-        grid-template-areas:
-               "....... header  header"
-                             "sidebar content content";
-        background-color: #fff;
-        color: #444;
+		grid-template-columns: 120px  240px;
+		grid-template-areas:
+               "....... header"
+							 "sidebar content"
+   							 "....... content"   ;
+		background-color: #fff;
+		color: #444;
     }
 .box {
   background-color: #444;
