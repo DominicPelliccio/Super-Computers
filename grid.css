@@ -5,7 +5,9 @@ body {
 .sidebar {
         grid-area: sidebar;
     }
-
+.sidebartwo {
+	grid-area: sidebare;
+    }
     .content {
         grid-area: content;
     }
