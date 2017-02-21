@@ -24,8 +24,10 @@ body {
 		grid-template-columns: 120px  240px;
 		grid-template-areas:
                "....... header"
-							 "sidebar content"
-   							 "....... content"   ;
+"sidebar content"
+   							 "....... content"  
+			"sidebar content"
+   							 "....... content";
 		background-color: #fff;
 		color: #444;
     }
