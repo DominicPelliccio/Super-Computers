@@ -1,6 +1,9 @@
 body { background-color: #778091;
 	margin: 40px;
 }
+.menu { 
+	grid-area: menu;
+}
 .sidebar {
 	grid-area: sidebar;
 }
