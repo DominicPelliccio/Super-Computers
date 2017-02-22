@@ -1,6 +1,7 @@
 body { background-color: #778091;
 	margin: 40px;
 }
+a{color:#adb2ba;}
 .menu { 
 	grid-area: menu;
 }
