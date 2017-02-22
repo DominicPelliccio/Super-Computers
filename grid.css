@@ -7,11 +7,17 @@ body {
 .sidebar2 {
 	grid-area: sidebar2;
 }
+.sidebar3 {
+	grid-area: sidebar3;
+}	
 .content {
 	grid-area: content;
 }
 .content2 {
 	grid-area: content2;
+}
+.content3 {
+	grid-area: content3;
 }
 .header {
 	grid-area: header;
@@ -34,8 +40,10 @@ body {
 		"sidebar content" 
 		"emptybox2 content" 
 		"sidebar2 content2" 
-		"emptybox3 content2";
-	background-color: #fff;
+		"emptybox3 content2"
+		"sidebar3 content3" 
+		"emptybox4 content3";
+		background-color: #fff;
 	color: #444;
 }
 .box {
