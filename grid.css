@@ -39,6 +39,7 @@ body { background-color: #778091;
 	grid-gap: 10px;
 	grid-template-columns: 120px 240px;
 	grid-template-areas: 
+		"menu menu"
 		"emptybox header" 
 		"sidebar content" 
 		"emptybox2 content" 
