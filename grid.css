@@ -35,6 +35,12 @@ a{color:#adb2ba;}
 .emptybox3{
 	grid-area: emptybox3;
 }
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}
 .wrapper {
 	display: grid;
 	grid-gap: 10px;
