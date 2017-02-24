@@ -6,10 +6,10 @@ a{color:#adb2ba;}
 	grid-area: menu;
 }
 .menu2 { 
-	grid-area: menu;
+	grid-area: menu2;
 }
 .menu3 { 
-	grid-area: menu;
+	grid-area: menu3;
 }
 .sidebar {
 	grid-area: sidebar;
