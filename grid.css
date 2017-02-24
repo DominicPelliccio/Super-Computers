@@ -5,6 +5,12 @@ a{color:#adb2ba;}
 .menu { 
 	grid-area: menu;
 }
+.menu2 { 
+	grid-area: menu;
+}
+.menu3 { 
+	grid-area: menu;
+}
 .sidebar {
 	grid-area: sidebar;
 }
