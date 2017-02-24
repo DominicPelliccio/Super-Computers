@@ -38,9 +38,9 @@ a{color:#adb2ba;}
 .wrapper {
 	display: grid;
 	grid-gap: 10px;
-	grid-template-columns: 120px 240px;
+	grid-template-columns: 120px 240px 50%;
 	grid-template-areas: 
-		"menu menu"
+		"menu menu menu"
 		"emptybox header" 
 		"sidebar content" 
 		"emptybox2 content" 
