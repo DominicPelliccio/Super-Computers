@@ -48,7 +48,7 @@ a{color:#adb2ba;}
 	grid-gap: 10px;
 	grid-template-columns: 120px  1000px  1000px;
 	grid-template-areas: 
-		"menu menu"
+		"menu menu menu2"
 		"emptybox header" 
 		"sidebar content" 
 		"emptybox2 content" 
