@@ -7,6 +7,12 @@ a{color:#adb2ba;}
 .menu { 
 	grid-area: menu;
 }
+.menu2 { 
+	grid-area: menu2;
+}
+.menu3 { 
+	grid-area: menu3;
+}
 .sidebar {
 	grid-area: sidebar;
 }
